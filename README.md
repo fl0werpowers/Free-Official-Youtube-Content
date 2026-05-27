@@ -1534,7 +1534,7 @@ Awesome list of official YouTube channels offering Movies, Anime, Cartoons, Docu
 #### [If you want me to support me, use my referral link next time you renew/buy your TorBox subscription!](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) You receive an extra 7 days times the number of months purchased added to the plan you purchased [if you use my referral code.](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) 
 #### If you enjoy using this list, a star on github would be greatly appreciated!
 #### [If you want me to support me, use my referral link next time you renew/buy your TorBox subscription!](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) You receive an extra 7 days times the number of months purchased added to the plan you purchased [if you use my referral code.](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) 
-###### Always read `README.md` and `CONTRIBUTING.md` in full first before you  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/SuperAB123/Free-Official-Youtube-Content)! Contributors have worked very hard on writing and maintaining this list! 
+###### Contributors have worked very hard on writing and maintaining this list! 
 #### If you enjoy using this list, a star on github would be greatly appreciated!
 #### [If you want me to support me, use my referral link next time you renew/buy your TorBox subscription!](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) You receive an extra 7 days times the number of months purchased added to the plan you purchased [if you use my referral code.](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) 
 Including a channel or website on here does not mean that I endose or agree with everything that they say or do. 
@@ -1547,3 +1547,5 @@ Including a channel or website on here does not mean that I endose or agree with
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=SuperAB123/Free-Official-Youtube-Content&type=date&legend=top-left" />
  </picture>
 </a>
+#### [If you want me to support me, use my referral link next time you renew/buy your TorBox subscription!](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) You receive an extra 7 days times the number of months purchased added to the plan you purchased [if you use my referral code.](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) 
+###### Always read `README.md` and `CONTRIBUTING.md` in full first before you [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/SuperAB123/Free-Official-Youtube-Content)! Contributors have worked very hard on writing and maintaining this list! 
