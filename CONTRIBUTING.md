@@ -7,26 +7,26 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 * Please **Read and Star the entire list first before you contribute.**
 * **Follow the Markdown format.**
 * If a channel is in any way linked to something that you normally have to pay to see, and the channel is active and posts related content to it, then add it and write a short description of the type of content. 
-* **Fix valid issues** by opening an issue or submitting a pull request.
+* **Fix [valid issues](https://github.com/SuperAB123/Free-Official-Youtube-Content/issues)** by opening [an issue](https://github.com/SuperAB123/Free-Official-Youtube-Content/issues) or submitting [a pull request](https://github.com/SuperAB123/Free-Official-Youtube-Content/pulls).
 * **This list is sorted by A-Z**
 * This list will **only focus on official YouTube channels** who have the rights to post the content online; **no unofficial uploaders are allowed.**
 * Feel free to send links to other official channels that post Movies, TV Shows, Cartoons, or Kids content. **Specify the language** if it's not an English channel.
 * Try to keep the links in the format: `https://www.youtube.com/@ChannelName` or [https://www.youtube.com/@ChannelName](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3).
-* If you know of any YouTube channels that fit the description but don't have a description on this list, you can add one. You can also fix inaccurate descriptions or typos via a pull request.
+* If you know of any YouTube channels that fit the description but don't have a description on this list, you can add one. You can also fix inaccurate descriptions or typos [via a pull request.](https://github.com/SuperAB123/Free-Official-Youtube-Content/pulls)
 * For content suggestions, **do not add YouTubers** to the list unless they focus on restoring and/or uploading **public domain content** like old movies and documentaries.
 * **Do not add region-locked channels** that require a VPN to view their content. These are outside the scope of this list.
-* **Each channel removal must be backed by a good reason in the PR, or else any PR with any channel removal not backed by a good reason will not be merged**
-* Update your fork before you open a pull request.
+* **Each channel removal must be backed by a good reason [in the PR](https://github.com/SuperAB123/Free-Official-Youtube-Content/pulls), or else [any PR](https://github.com/SuperAB123/Free-Official-Youtube-Content/pulls) with any channel removal not backed by a good reason will not be merged**
+* Update your fork before you open [a pull request.](https://github.com/SuperAB123/Free-Official-Youtube-Content/pulls)
 * I would really appreciate you if you star this list/project. This will ensure **your contributions** will be seen by more people. 
 
 ### For Hacktoberfest/ Newcomers who want to contribute to the project:
 
-Look for issues in the [issues section](https://github.com/vighneshb04/Free-Official-Youtube-Content/issues) or contribute by:
+Look for issues in the [issues section](https://github.com/SuperAB123/Free-Official-Youtube-Content/issues) or contribute by:
 * Star this list/project
 * Writing short description for channels that don’t have them
 * Sorting the list by A-Z
 * Improving existing channel descriptions or correcting broken links.
-* Fixing typos or formatting issues in the `README.md` and `CONTRIBUTING.md`
+* Fixing typos or formatting [issues](https://github.com/SuperAB123/Free-Official-Youtube-Content/issues) in the `README.md` and `CONTRIBUTING.md`
 * Adding new official YouTube channels that provide free content.
 * Suggesting new categories for content.
 * [Use my referral link next time you renew/buy your TorBox subscription!](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3)
