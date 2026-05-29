@@ -1539,7 +1539,7 @@ Including a channel or website on here does not mean that I endose or agree with
 #### [If you want me to support me and the list, use my referral link next time you renew/buy your TorBox subscription!](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) You receive an extra 7 days times the number of months purchased added to the plan you purchased [if you use my referral code.](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3)  
 [Original list on Rentry](https://rentry.co/Free-Official-Youtube-Content)
 #### [If you want me to support me and the list, use my referral link next time you renew/buy your TorBox subscription!](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) You receive an extra 7 days times the number of months purchased added to the plan you purchased [if you use my referral code.](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3)  
-<a href="https://www.star-history.com/?repos=SuperAB123%2FFree-Official-Youtube-Content&type=date&legend=top-left">
+<a href="https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=SuperAB123/Free-Official-Youtube-Content&type=date&theme=dark&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=SuperAB123/Free-Official-Youtube-Content&type=date&legend=top-left" />
@@ -1552,7 +1552,7 @@ Including a channel or website on here does not mean that I endose or agree with
 #### [If you want me to support me and the list, use my referral link next time you renew/buy your TorBox subscription!](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3) You receive an extra 7 days times the number of months purchased added to the plan you purchased [if you use my referral code.](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3)  
 
 
-<a href="https://www.star-history.com/?repos=SuperAB123%2FFree-Official-Youtube-Content&type=timeline&legend=top-left">
+<a href="https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=SuperAB123/Free-Official-Youtube-Content&type=timeline&theme=dark&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=SuperAB123/Free-Official-Youtube-Content&type=timeline&legend=top-left" />
