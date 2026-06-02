@@ -1366,6 +1366,8 @@ NPB [Pacific League English](https://www.youtube.com/@PacificLeagueTVEngofficial
 
 [**World Airsoft Games**](https://youtube.com/@worldairsoftgames) 
 
+[**World Archery**](https://www.youtube.com/@WorldArcheryTV) 
+
 [World Baseball Classic](https://www.youtube.com/@worldbaseballclassic) (Baseball World Cup full game archives, highlights and others)
 
 [**World Poker Tour**](https://www.youtube.com/@WorldPokerTour) (Full episodes and final table highlights from major tournaments)
