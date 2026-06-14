@@ -234,6 +234,8 @@ Also a big thanks to [all the members of the FMHY Discord server](https://github
 
 [**The Fairly OddParents**](https://www.youtube.com/@TheFairlyOddParentsOfficial) (Clips, shorts, and full episodes from the Nickelodeon series)
 
+[**The Loud House**](https://www.youtube.com/@LoudHouse) (Official clips, compilations and full episodes)
+
 [**The Powerpuff Girls**](https://www.youtube.com/@ThePowerpuffGirls) (Clips and compilations)
 
 [**The Smurfs**](https://www.youtube.com/@TheSmurfsEnglish) (Official clips, compilations and full episodes)
