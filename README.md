@@ -696,7 +696,7 @@ Also a big thanks to [all the members of the FMHY Discord server](https://github
 
 [**Lionsgate Movies**](https://www.youtube.com/@LionsgateMovies) (Trailers and some extra content)
 
-[**MAFIA the GAME**](https://www.youtube.com/@foundersfundmafia) 
+[**MAFIA the GAME**](https://www.youtube.com/@foundersfundmafia) (Tech industry legends/a group of tech leaders play Mafia )
 
 [**Marvel**](https://www.youtube.com/@marvel) (Trailers, clips, and exclusive content from the Marvel Cinematic Universe)
 
