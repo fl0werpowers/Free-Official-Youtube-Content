@@ -74,11 +74,13 @@ Also a big thanks to [all the members of the FMHY Discord server](https://github
 
 [**GONZO**](https://www.youtube.com/@gonzo) (full episodes, clips and more for anime like Kaleido Star and Basilisk : Ouka Ninpouchou)
 
-[**Gundaminfo**](https://www.youtube.com/@gundaminfo) (Trailers, special contents...)
+[**Gundaminfo**](https://www.youtube.com/@gundaminfo) (Trailers, special contents, full Gundam episodes...)
 
 [**GKIDS Films**](https://www.youtube.com/@GKIDStv) (Trailers and clips from acclaimed animated films from around the world)
 
 [**HIDIVE**](https://www.youtube.com/@HIDIVE) (Trailers and clips for various anime series)
+
+[**It's Anime powered by REMOW**](https://www.youtube.com/@ItsAnimeJP) (Select anime clips and full episodes of shows licensed by REMOW)
 
 [**KADOKAWAanime**](https://www.youtube.com/@KADOKAWAanime) (Trailers and clips from Kadokawa-produced anime)
 
